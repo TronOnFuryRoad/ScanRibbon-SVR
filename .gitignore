@@ -1,0 +1,17 @@
+# Node / build
+node_modules/
+dist/
+.cache/
+*.log
+
+# PHP / Composer
+/vendor/
+composer.lock
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Nextcloud app build outputs
+appdata_*/
